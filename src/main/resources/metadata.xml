@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?><m:EntityDescriptor entityID='DemoAppIDP' xmlns:m='urn:oasis:names:tc:SAML:2.0:metadata'><m:RoleDescriptor xsi:type='fed:SecurityTokenServiceType' xmlns:fed='http://docs.oasis-open.org/wsfed/federation/200706' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' protocolSupportEnumeration='http://docs.oasis-open.org/ws-sx/ws-trust/200512 http://schemas.xmlsoap.org/ws/2005/02/trust http://docs.oasis-open.org/wsfed/federation/200706'><m:KeyDescriptor use='signing'><ds:KeyInfo xmlns:ds='http://www.w3.org/2000/09/xmldsig#'><ds:X509Data><ds:X509Certificate>MIICyzCCAbMCBFMxrFcwDQYJKoZIhvcNAQEFBQAwKjELMAkGA1UEBhMCZGUxGzAZBgNVBAMMEkxv
+Y2FsIFNBTUwgU2lnbmluZzAeFw0xNDAzMjUxNjE4MzFaFw0yNDAzMjIxNjE4MzFaMCoxCzAJBgNV
+BAYTAmRlMRswGQYDVQQDDBJMb2NhbCBTQU1MIFNpZ25pbmcwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDIjIqRA6vJ63bFUx/o1ZENsD1AwM8yRgw/4diA4PzQDRY3jMEu8Unv4vJD6NLS
+EB9a68wYwH0kDJQYuBx4hUiEKClkYMh7U1IHFRJ6Ir50CIULIjZhx/jxPcTv6mRm0dZMj3uMVkWO
+yqn9kQ5uAeKh5rJ6rAoAedPeEAMTaHKp9qQ+mT/Lpplz9D42QT1rdfQv8p+LefsIqceZjl7uP3Qv
+GnzM9pSmyJFKP5tKXgAKW/w0DmkMsToQFRbou+qVTo97wBxcjhzVIHNRkWf6qUuNQZial6aPYUP3
+UrFUQWq0wLPcD7brXxpv+3Qk4mLokGzLYqPZq1bOi8/HHPrd0C15AgMBAAEwDQYJKoZIhvcNAQEF
+BQADggEBADXxMEv8jlesQrW59VTUNvp9dIZk5ymLh5Ax4t4GAnp9viqOmg6q12sVooU1Iqc4jZ8b
+uTK2pFfg114umkLl4BVPYcWUrYHEVECmcPcs860VS4MGGpgbtfsfquvIc9a/7nlxbO87PPzf9XIn
+NUw9Tvu4HGzylvVd1pEB8uIdndfPsXFbu//jbHKI+5sgqqr/m2wXLuxbouIi4bHprt2LBoCRmeZk
+Jh/rwS3BEFnw4V9KArU/zHjIcx9I1kIdRW8IxYWLwmDPu6BuzVXkVOb8FMLSHscZzkSaHEJgJcXq
+tv7xNAnbqfYG6VlGYc4mWI4e3eBJDZ0wIOWLzvvEaj+KfTA=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><fed:TokenTypesOffered><fed:TokenType Uri='urn:oasis:names:tc:SAML:1.0:assertion'/></fed:TokenTypesOffered></m:RoleDescriptor></m:EntityDescriptor>
